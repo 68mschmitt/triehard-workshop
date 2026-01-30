@@ -17,6 +17,7 @@ Each course guides you through building a complete project from scratch, teachin
 | Course | Description | Status |
 |--------|-------------|--------|
 | [Course 1: Word Library Engine](./course-01-word-library-engine/) | Build a fast, extensible word library with hash sets, tries, and BK-trees | ✅ Complete |
+| [Course 2: Language Server](./course-02-language-server/) | Wrap your engine in a production LSP server for editor integration | ✅ Complete |
 
 ---
 
@@ -50,7 +51,6 @@ Software engineers who:
 
 ## Future Plans
 
-- **Course 2**: LSP Server Implementation (building on Course 1)
 - **Course 3**: Editor Integration (Neovim plugin development)
 
 ---
